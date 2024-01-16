@@ -3,6 +3,19 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddCors(option =>
+{
+    option.AddDefaultPolicy(builder =>
+    {
+        builder.AllowAnyOrigin()
+        .AllowAnyMethod()
+        .AllowAnyHeader();
+
+
+    });
+});
+
+
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -17,10 +30,14 @@ builder.Services.AddDbContext<EmployeedbContext>(options =>
 });
 
 
+
+
 var app = builder.Build();
 
 app.UseDefaultFiles();
 app.UseStaticFiles();
+
+app.UseCors();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

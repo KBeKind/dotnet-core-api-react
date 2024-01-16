@@ -235,3 +235,4 @@ C:\Users\kyler\Desktop\DOTNET-PROJECTS\asp-core-web-api\AspCoreWebReact\AspCoreW
 C:\Users\kyler\Desktop\DOTNET-PROJECTS\asp-core-web-api\AspCoreWebReact\AspCoreWebReact.Server\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\kyler\Desktop\DOTNET-PROJECTS\asp-core-web-api\AspCoreWebReact\AspCoreWebReact.Server\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\kyler\Desktop\DOTNET-PROJECTS\asp-core-web-api\AspCoreWebReact\AspCoreWebReact.Server\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\kyler\Desktop\DOTNET-PROJECTS\asp-core-web-api\AspCoreWebReact\AspCoreWebReact.Server\obj\Debug\net8.0\AspCoreWebReact.Server.sourcelink.json

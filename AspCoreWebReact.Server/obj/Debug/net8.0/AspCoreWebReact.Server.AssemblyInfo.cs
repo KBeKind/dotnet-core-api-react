@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspCoreWebReact.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+840ddb36db8dd46e7e023ef8115aa7608990fe79")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspCoreWebReact.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspCoreWebReact.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
