@@ -1,0 +1,1 @@
+C:\Users\kyler\Desktop\DOTNET-PROJECTS\asp-core-web-api\AspCoreWebReact\aspcorewebreact.client\obj\Debug\aspcorewebreact.client.esproj.CoreCompileInputs.cache
